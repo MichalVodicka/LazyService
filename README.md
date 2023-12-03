@@ -1,0 +1,2 @@
+# LazyService
+graphql service abstraction
